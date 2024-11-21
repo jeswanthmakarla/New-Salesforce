@@ -1,2 +1,3 @@
 Hii Hello
-welcome to Git & GItHUb
+welcome to Git & GitHub
+changes done 
